@@ -4,7 +4,7 @@
     {
       "id": "abalado",
       "name": "Abalado",
-      "icon": "icones-cub/abalado.svg",
+      "icon": "icones-cub/abalado.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.Kni754IDvTqMT2MZ]",
@@ -21,7 +21,7 @@
     {
       "id": "agarrado",
       "name": "Agarrado",
-      "icon": "icones-cub/agarrado.svg",
+      "icon": "icones-cub/agarrado.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.jbXYOVvG7YcttREC]",
@@ -38,7 +38,7 @@
     {
       "id": "alquebrado",
       "name": "Alquebrado",
-      "icon": "icones-cub/alquebrado.svg",
+      "icon": "icones-cub/alquebrado.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.W4T2ixQX6vBpw0Vq]",
@@ -140,7 +140,7 @@
     {
       "id": "debilitado",
       "name": "Debilitado",
-      "icon": "icones-cub/debilitado.svg",
+      "icon": "icones-cub/debilitado.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.ADCnFear8yLJbnQr]",
@@ -157,7 +157,7 @@
     {
       "id": "desprevenido",
       "name": "Desprevenido",
-      "icon": "icones-cub/desprevinido.svg",
+      "icon": "icones-cub/desprevinido.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.x4dk7qZ2RXzZHtSP]",
@@ -208,7 +208,7 @@
     {
       "id": "enjoado",
       "name": "Enjoado",
-      "icon": "icones-cub/enjoado.svg",
+      "icon": "icones-cub/enjoado.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.YWQD1g3V54R46lxi]",
@@ -259,7 +259,7 @@
     {
       "id": "esmorecido",
       "name": "Esmorecido",
-      "icon": "icones-cub/esmorecido.svg",
+      "icon": "icones-cub/esmorecido.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.pUBeGiEeZaftLFxO]",
@@ -276,7 +276,7 @@
     {
       "id": "exausto",
       "name": "Exausto",
-      "icon": "icones-cub/exausto.svg",
+      "icon": "icones-cub/exausto.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.4gh9qvmKQ0zST4VV]",
@@ -327,7 +327,7 @@
     {
       "id": "fraco",
       "name": "Fraco",
-      "icon": "icones-cub/fraco.svg",
+      "icon": "icones-cub/fraco.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.17TxBcPwXn5hsuFP]",
@@ -361,7 +361,7 @@
     {
       "id": "imovel",
       "name": "Imóvel",
-      "icon": "icones-cub/imovel.svg",
+      "icon": "icones-cub/imovel.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.PksJ4BmmlhqLfoZh]",
@@ -378,7 +378,7 @@
     {
       "id": "indefeso",
       "name": "Indefeso",
-      "icon": "icones-cub/indefeso.svg",
+      "icon": "icones-cub/indefeso.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.ZKbBtL0z0uHpoWKH]",
@@ -446,7 +446,7 @@
     {
       "id": "pasmo",
       "name": "Pasmo",
-      "icon": "icones-cub/pasmo.svg",
+      "icon": "icones-cub/pasmo.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.xkkaKV7xpj1KsT6T]",
@@ -463,7 +463,7 @@
     {
       "id": "petrificado",
       "name": "Petrificado",
-      "icon": "icones-cub/petrificado.svg",
+      "icon": "icones-cub/petrificado.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.3zyw70lNvR2XQzqQ]",
@@ -514,7 +514,7 @@
     {
       "id": "surpreendido",
       "name": "Surpreendido",
-      "icon": "icones-cub/surpreso.svg",
+      "icon": "icones-cub/surpreso.png",
       "referenceType": "compendium.journalEntry",
       "compendium": "world.condicoes",
       "referenceId": "@Compendium[world.condicoes.wciD4QPb5g2btUG2]",
@@ -565,7 +565,7 @@
     {
       "id": "bencao",
       "name": "Benção",
-      "icon": "icones-cub/ben%C3%A7%C3%A3o.svg",
+      "icon": "icones-cub/bencao.png",
       "referenceType": "compendium.item",
       "compendium": "",
       "referenceId": "",
@@ -582,7 +582,7 @@
     {
       "id": "inspiracao",
       "name": "Inspiração",
-      "icon": "icones-cub/inspirado.svg",
+      "icon": "icones-cub/inspiracao.png",
       "referenceType": "compendium.item",
       "compendium": "",
       "referenceId": "",
