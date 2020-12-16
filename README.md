@@ -11,6 +11,16 @@ Módulos essenciais para qualquer mestre.
 - **Tidy UI - Game Settings** - Melhora a interface do sistema. A maior mudança é na página de Configuração de Módulos
 - **Tormenta20 Compendium** - Contém equipamentos, magias e poderes do Tormenta20.
 
+## Condições
+Para adicionar as condições do Tormenta 20 você vai precisar do módulo **Combat Utility Belt** (vulgo CUB).
+1) Baixe os arquivos do link https://github.com/mclemente/Modulos-e-Macros-para-Tormenta20-no-FoundryVTT/blob/main/condi%C3%A7%C3%B5es/
+2) Mova a pasta "icones-cub" para o diretório %localappdata%/FoundryVTT/Data.
+3) Nas Configurações de Módulo do CUB, ative o "Enable Enhanced Conditions"
+4) Vá no CUBPuter e ative o Enhanced Conditions e marque a caixa "Remove Default Status Effects"
+5) Vá no Condition Lab e import o arquivo cub-tormenta20-condition-map.json
+
+Os ícones disponíveis pertencem ao https://game-icons.net.
+
 ##  Chat
 Módulos que adicionam funcionalidades ao chat, mas que não mudam a sua vida.
 
