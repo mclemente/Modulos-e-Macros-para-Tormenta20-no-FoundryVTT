@@ -13,11 +13,11 @@ Módulos essenciais para qualquer mestre.
 
 ## Condições
 Para adicionar as condições do Tormenta 20 você vai precisar do módulo **Combat Utility Belt** (vulgo CUB).
-1) Baixe os arquivos da pasta Condições.
+1) Baixe os arquivos da pasta "condições".
 2) Mova a pasta "icones-cub" para o diretório %localappdata%/FoundryVTT/Data.
-3) Nas Configurações de Módulo do CUB, ative o "Enable Enhanced Conditions"
-4) Vá no CUBPuter e ative o Enhanced Conditions e marque a caixa "Remove Default Status Effects"
-5) Vá no Condition Lab e import o arquivo cub-tormenta20-condition-map.json
+3) Nas Configurações de Módulo do CUB e ative o "Enable Enhanced Conditions"
+4) Vá no CUBPuter, ative o Enhanced Conditions e marque a caixa "Remove Default Status Effects"
+5) Vá no Condition Lab e importe o arquivo cub-tormenta20-condition-map.json
 
 Os ícones disponíveis pertencem ao https://game-icons.net.
 
