@@ -37,7 +37,7 @@ Módulos para mestres que querem mexer com a iluminação, clima ou áudio.
 
 - **CommunityLightning by Blitz** Adiciona 18 efeitos de iluminação e suporte a macros.
 - **FXMaster** - Adiciona 11 opções de clima e um botão no lado esquerdo. Também adiciona suporte a macro de efeitos, mas a maioria é do Patreon deles.
-- **Playlist Importer** - Importa playlists em vez de ter que adicionar uma por uma.
+- **Playlist Importer** - Importa playlists em vez de ter que adicionar uma por uma. A playlist que eu uso: https://mega.nz/folder/IXBhlAYZ#pHkhA4C0m4MacnMxz9oywg
 
 ## Mapa
 Para facilitar o uso de mapas.
