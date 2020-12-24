@@ -9,6 +9,7 @@ Módulos essenciais para qualquer mestre.
 - **Macro Folders** - Adiciona pastas ao diretório de macros.
 - **Permission Viewer** - Adiciona um ícone para mostrar quem tem visão das entidades (atores, itens, etc).
 - **Tidy UI - Game Settings** - Melhora a interface do sistema. A maior mudança é na página de Configuração de Módulos
+- **Token Alt Tooltip** - Segure Alt e veja várias informações dos personagens. Importe essa linha de texto para ter várias informações: [link](https://raw.githubusercontent.com/mclemente/Modulos-e-Macros-para-Tormenta20-no-FoundryVTT/main/token-alt-tooltip.txt).
 - **Tormenta20 Compendium** - Contém equipamentos, magias e poderes do Tormenta20.
 
 ##  Chat
@@ -41,3 +42,10 @@ Perfeitos para quem veio do Roll20
 - **Autocomplete Whisper** - Quando você digitar "/w" no chat ele vai mostrar uma lista dos jogadores. É possível substituir com uma macro.
 - **Dice So Nice!** - Dados 3D são rolados na tela. Obs: Quando o jogador mudar de aba no navegador, todos os dados que foram lançados desde o momento que ele alternou de aba aparecerão ao mesmo tempo.
 - **Pings** - Segure o botão esquerdo do mouse no mapa e um ping aparece no local.
+- **Wall Height** - Você pode definir uma altura para uma parede, permitindo que personagens acima da altura consigam enxergar através dela.
+
+## Nível Avançado
+Achas que tens o que é preciso para dominares o sistema?
+
+- **Multilevel Tokens** - Crie teleportes, mova jogadores para outro mapa, etc.
+- **Vehicles and Mechanisms** - Crie veículos que movem os tokens dentro deles (precisa do Multilevel Tokens).
