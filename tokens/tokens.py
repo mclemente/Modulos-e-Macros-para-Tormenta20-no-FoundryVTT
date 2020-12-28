@@ -4,6 +4,7 @@ import codecs, json, os
 #2) Copie o arquivo ameacas.db (pasta modules/tormenta20-compendium/packs) para a mesma pasta dos tokens
 #3) Defina o CAMINHO dos tokens
 #4) Execute o programa
+#5) Renomeie o arquivo ameacas2.db para ameacas.db e mova-o de volta para a pasta modules/tormenta20-compendium/packs.
 CAMINHO = "tokens/Tokens Tormenta 20/"
 
 output = []
