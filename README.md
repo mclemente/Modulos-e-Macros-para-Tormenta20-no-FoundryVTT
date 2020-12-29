@@ -42,6 +42,7 @@ Perfeitos para quem veio do Roll20
 - **Autocomplete Whisper** - Quando você digitar "/w" no chat ele vai mostrar uma lista dos jogadores. É possível substituir com uma macro.
 - **Dice So Nice!** - Dados 3D são rolados na tela. Obs: Quando o jogador mudar de aba no navegador, todos os dados que foram lançados desde o momento que ele alternou de aba aparecerão ao mesmo tempo.
 - **Pings** - Segure o botão esquerdo do mouse no mapa e um ping aparece no local.
+- **Show Drag Distance** - Mostra a distância que o token irá percorrer ao movê-lo com o mouse. O atributo para o deslocamento base é `actor.data.data.deslocamento.total`.
 - **Wall Height** - Você pode definir uma altura para uma parede, permitindo que personagens acima da altura consigam enxergar através dela.
 
 ## Nível Avançado
