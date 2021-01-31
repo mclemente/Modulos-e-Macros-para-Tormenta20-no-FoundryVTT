@@ -11,7 +11,6 @@ Módulos essenciais para qualquer mestre.
 - **Permission Viewer** - Adiciona um ícone para mostrar quem tem visão das entidades (atores, itens, etc).
 - **Tidy UI - Game Settings** - Melhora a interface do sistema. A maior mudança é na página de Configuração de Módulos
 - **Token Alt Tooltip** - Segure Alt e veja várias informações dos personagens. Importe essa linha de texto para ter várias informações: [link](https://raw.githubusercontent.com/mclemente/Modulos-e-Macros-para-Tormenta20-no-FoundryVTT/main/token-alt-tooltip.txt).
-- **Tormenta20 Compendium** - Contém equipamentos, magias e poderes do Tormenta20.
 
 ##  Chat
 Módulos que adicionam funcionalidades ao chat, mas que não mudam a sua vida.
@@ -33,7 +32,7 @@ Módulos para mestres que querem mexer com a iluminação, clima ou áudio.
 ## Mapa
 Para facilitar o uso de mapas.
 
-- **Dungeondraft Importer** - Importa mapas criados no Dungeondraft com paredes e tudo. Às vezes umas portas aparecem em lugares que não deviam, mas nada que uma rápida edição pelo Foundry não resolva.
+- **Universal Battlemap Importer** - Importa mapas criados no Dungeondraft ou DungeonFog com paredes e tudo. Às vezes algumas portas e paredes aparecem em lugares que não deviam, mas nada que uma rápida edição pelo Foundry não resolva.
 - **Perfect Vision** - Melhora a iluminação dos mapas e a visão para mestres. A regra de visão do Tormenta20 é igual à padrão do Foundry, mas eu indico colocar "Bright Light (monochrome)" na opção "Bright Vision in Darkness" para facilitar que seus jogadores com visão no escuro/penumbra saibam quando uma área está realmente iluminada.
 - **Zoom/Pan Options** - Melhora MUITO o zoom.
 
@@ -42,9 +41,10 @@ Perfeitos para quem veio do Roll20
 
 - **Autocomplete Whisper** - Quando você digitar "/w" no chat ele vai mostrar uma lista dos jogadores. É possível substituir com uma macro.
 - **Dice So Nice!** - Dados 3D são rolados na tela. Obs: Quando o jogador mudar de aba no navegador, todos os dados que foram lançados desde o momento que ele alternou de aba aparecerão ao mesmo tempo.
+- **Ficha de Loot T20** - Adiciona uma ficha de tesouros/loja para a ficha de NPC.
 - **Pings** - Segure o botão esquerdo do mouse no mapa e um ping aparece no local.
 - **Show Drag Distance** - Mostra a distância que o token irá percorrer ao movê-lo com o mouse. O atributo para o deslocamento base é `actor.data.data.deslocamento.total`.
-- **Wall Height** - Você pode definir uma altura para uma parede, permitindo que personagens acima da altura consigam enxergar através dela.
+- **Wall Height** - Você pode definir uma altura para uma parede, permitindo que personagens acima da altura consigam enxergar através dela. Tem possíveis problemas de compatibilidade com o Perfect Vision.
 
 ## Nível Avançado
 Achas que tens o que é preciso para dominares o sistema?
