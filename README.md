@@ -5,6 +5,7 @@ Lista pessoal de módulos e macros do FoundryVTT para Tormenta 20
 ## Organização
 Módulos essenciais para qualquer mestre.
 
+- **Adventure Importer / Exporter** - Exporta conteúdo do seu mundo para um arquivo que pode ser importado para outros mundos.
 - **Compendium Folders** - Adiciona pastas ao diretório de compêndios.
 - **Illandril's Token HUD scaler**  - Aumenta o tamanho dos botões quando um token é selecionado. Perfeito para quem acha o menu de condições muito pequeno.
 - **Macro Folders** - Adiciona pastas ao diretório de macros.
