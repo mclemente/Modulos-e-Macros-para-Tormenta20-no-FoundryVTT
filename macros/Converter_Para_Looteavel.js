@@ -70,7 +70,7 @@ async function ConvertToLootable(){
     // Need to convert the actor's currency data to the LS schema here to avoid
     // breakage. If there is already currency on the actor, it is retained.
 
-    if (typeof(token.actor.data.data.currency.cp) === "number") {
+    if (typeof(token.actor.data.data.detalhes.dinheiro.tc) === "number") {
       let oldCurrencyData = token.actor.data.data.detalhes.dinheiro;
       newActorData['data.currency'] = {
         'tl': {'value': oldCurrencyData.tl},
