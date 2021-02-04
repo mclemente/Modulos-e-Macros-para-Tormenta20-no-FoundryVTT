@@ -22,6 +22,7 @@ Módulos que adicionam funcionalidades ao chat, mas que não mudam a sua vida.
 - **Chat Portrait** - Mostra o retrato do personagem no chat.
 - **Dice Tray** - Adiciona uma bandeja de dados abaixo do chat. Bom para quem pede rolagens de dado além das rolagens da ficha.
 - **Illandril's Chat Enhancements** - Mostra com qual token você está falando e mostra o nome do jogador ao lado do nome do personagem fazendo as ações.
+- **Poliglota** - Permite enviar mensagens no chat usando idiomas.
 
 ## Efeitos Audiovisuais
 Módulos para mestres que querem mexer com a iluminação, clima ou áudio.
