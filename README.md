@@ -22,7 +22,6 @@ Módulos que adicionam funcionalidades ao chat, mas que não mudam a sua vida.
 - **Chat Portrait** - Mostra o retrato do personagem no chat.
 - **Dice Tray** - Adiciona uma bandeja de dados abaixo do chat. Bom para quem pede rolagens de dado além das rolagens da ficha.
 - **Illandril's Chat Enhancements** - Mostra com qual token você está falando e mostra o nome do jogador ao lado do nome do personagem fazendo as ações.
-- **Poliglota** - Permite enviar mensagens no chat usando idiomas.
 
 ## Efeitos Audiovisuais
 Módulos para mestres que querem mexer com a iluminação, clima ou áudio.
@@ -46,7 +45,7 @@ Perfeitos para quem veio do Roll20
 - **Ficha de Loot T20** - Adiciona uma ficha de tesouros/loja para a ficha de NPC.
 - **Pings** - Segure o botão esquerdo do mouse no mapa e um ping aparece no local.
 - **Drag Ruler** - Mostra a distância que o token irá percorrer ao movê-lo com o mouse. O atributo para o deslocamento base é `actor.data.data.deslocamento.total`. No momento, só funciona para Personagens de Jogador no Tormenta20.
-- **Wall Height** - Você pode definir uma altura para uma parede, permitindo que personagens acima da altura consigam enxergar através dela. Tem possíveis problemas de compatibilidade com o Perfect Vision.
+- **Wall Height** - Você pode definir uma altura para uma parede, permitindo que personagens acima da altura consigam enxergar através dela.
 
 ## Nível Avançado
 Achas que tens o que é preciso para dominares o sistema?
