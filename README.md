@@ -21,6 +21,7 @@ Módulos que adicionam funcionalidades ao chat, mas que não mudam a sua vida.
 - **Chat Message Accessibility Indicator** - Indica o tipo da rolagem no chat (rolagem própria, rolagem cega, etc).
 - **Chat Portrait** - Mostra o retrato do personagem no chat.
 - **Dice Tray** - Adiciona uma bandeja de dados abaixo do chat. Bom para quem pede rolagens de dado além das rolagens da ficha.
+- **Hide GM Rolls** - Esconde as rolagens de Mestre.
 - **Illandril's Chat Enhancements** - Mostra com qual token você está falando e mostra o nome do jogador ao lado do nome do personagem fazendo as ações.
 - **Polyglot** - Permite enviar mensagens no chat usando idiomas.
 
