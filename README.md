@@ -9,6 +9,8 @@ Módulos essenciais para qualquer mestre.
 - **Compendium Folders** - Adiciona pastas ao diretório de compêndios.
 - **Illandril's Token HUD scaler**  - Aumenta o tamanho dos botões quando um token é selecionado. Perfeito para quem acha o menu de condições muito pequeno.
 - **Macro Folders** - Adiciona pastas ao diretório de macros.
+- **Monk's Little Details** - Coletânea de diversas mudanças pequenas. A principal é adicionar o [texto nas condições](https://raw.githubusercontent.com/ironmonk88/monks-little-details/main/screenshots/TokenHUDUpdates.PNG).
+- **Monk's Tokenbar** Adiciona uma [barra de personagens](https://raw.githubusercontent.com/ironmonk88/monks-tokenbar/main/screenshots/TokenBar.png) do lado da barra de macros, além de permitir pedir rolagens, fazer rolagens contestadas, etc.
 - **Permission Viewer** - Adiciona um ícone para mostrar quem tem visão das entidades (atores, itens, etc).
 - **Tidy UI - Game Settings** - Melhora a interface do sistema. A maior mudança é na página de Configuração de Módulos
 - **Token Alt Tooltip** - Segure Alt e veja várias informações dos personagens. Importe essa linha de texto para ter várias informações: [link](https://raw.githubusercontent.com/mclemente/Modulos-e-Macros-para-Tormenta20-no-FoundryVTT/main/token-alt-tooltip.txt).
