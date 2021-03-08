@@ -48,7 +48,7 @@ Perfeitos para quem veio do Roll20
 - **Dice So Nice!** - Dados 3D são rolados na tela. Obs: Quando o jogador mudar de aba no navegador, todos os dados que foram lançados desde o momento que ele alternou de aba aparecerão ao mesmo tempo.
 - **Ficha de Loot T20** - Adiciona uma ficha de tesouros/loja para a ficha de NPC.
 - **Pings** - Segure o botão esquerdo do mouse no mapa e um ping aparece no local.
-- **Drag Ruler** - Mostra a distância que o token irá percorrer ao movê-lo com o mouse. O atributo para o deslocamento base é `actor.data.data.deslocamento.total`. No momento, só funciona para Personagens de Jogador no Tormenta20.
+- **Drag Ruler** - Mostra a distância que o token irá percorrer ao movê-lo com o mouse. O atributo para o deslocamento base é `actor.data.data.attributes.movement.walk`.
 - **Wall Height** - Você pode definir uma altura para uma parede, permitindo que personagens acima da altura consigam enxergar através dela.
 
 ## Nível Avançado
