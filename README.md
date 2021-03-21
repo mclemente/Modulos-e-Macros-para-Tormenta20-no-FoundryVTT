@@ -5,8 +5,9 @@ Lista pessoal de módulos e macros do FoundryVTT para Tormenta 20
 ## Organização
 Módulos essenciais para qualquer mestre.
 
-- **Adventure Importer / Exporter** - Exporta conteúdo do seu mundo para um arquivo que pode ser importado para outros mundos. Exemplo: todas as tabelas de recompensa do T20 podem ser importadadas desse [arquivo](https://github.com/mclemente/Modulos-e-Macros-para-Tormenta20-no-FoundryVTT/outros/Tabela_de_Recompensas_T20.fvttadv) (muito obrigado ao MestreArieltonC#4492 por compartilhar esse arquivo).
+- **Adventure Importer / Exporter** - Exporta conteúdo do seu mundo para um arquivo que pode ser importado para outros mundos. Exemplo: todas as tabelas de recompensa do T20 podem ser importadadas desse [arquivo](https://github.com/mclemente/Modulos-e-Macros-para-Tormenta20-no-FoundryVTT/outros/Tabela_de_Recompensas_T20.fvttadv) (Agradecimentos ao MestreArieltonC#4492 por compartilhar esse arquivo).
 - **Compendium Folders** - Adiciona pastas ao diretório de compêndios.
+- **Health Estimate** - Mostra uma estimativa de quantos PV uma criatura ainda tem (exemplo: machucado, morrendo, etc). Para o T20, use esta versão `https://github.com/mclemente/healthEstimate/releases/latest/download/module.json`.
 - **Illandril's Token HUD scaler**  - Aumenta o tamanho dos botões quando um token é selecionado. Perfeito para quem acha o menu de condições muito pequeno.
 - **Macro Folders** - Adiciona pastas ao diretório de macros.
 - **Monk's Little Details** - Coletânea de diversas mudanças pequenas. A principal é adicionar o [texto nas condições](https://raw.githubusercontent.com/ironmonk88/monks-little-details/main/screenshots/TokenHUDUpdates.PNG).
