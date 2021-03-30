@@ -56,5 +56,6 @@ Módulos para adicionar funcionalidades específicas.
 ## Nível Avançado
 Achas que tens o que é preciso para dominares o sistema?
 
+- **Macro Marker** - Permite criar automações para macros.
 - **Multilevel Tokens** - Crie teleportes, mova jogadores para outro mapa, etc.
 - **Vehicles and Mechanisms** - Crie veículos que movem os tokens dentro deles (precisa do Multilevel Tokens).
