@@ -33,7 +33,7 @@ Lista pessoal de módulos e macros do FoundryVTT para Tormenta 20
 - **Perfect Vision** - Melhora a iluminação dos mapas e a visão para mestres. A regra de visão do Tormenta20 é igual à padrão do Foundry, mas eu indico colocar "Bright Light (monochrome)" na opção "Bright Vision in Darkness" para facilitar que seus jogadores com visão no escuro/penumbra saibam quando uma área está realmente iluminada.
 - **Zoom/Pan Options** - Melhora MUITO o zoom.
 - **Universal Battlemap Importer** - Importa mapas criados no Dungeondraft ou DungeonFog com paredes e tudo. Às vezes algumas portas e paredes aparecem em lugares que não deviam, mas nada que uma rápida edição pelo Foundry não resolva.
-- 
+
 ## Opcionais
 
 - **Autocomplete Whisper** - Quando você digitar "/w" no chat ele vai mostrar uma lista dos jogadores. É possível substituir com uma macro.
